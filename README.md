@@ -78,7 +78,8 @@ class CarAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![alt text](<../Screenshot (49).png>)
+<img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/207d298d-8672-4ca4-92ff-519fc7ee9ee4" />
+
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
